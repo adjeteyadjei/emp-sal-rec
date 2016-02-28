@@ -1,0 +1,38 @@
+[
+  {
+    "LastName": "Simpson",
+    "OtherNames": "Fatis",
+    "Name": "Simpson Fatis",
+    "PhoneNumber": "098765435678",
+    "Email": "",
+    "Address": "",
+    "EmployeeNo": "",
+    "JobTitle": "Killer",
+    "Gender": 0,
+    "CreatedBy": "System",
+    "ModifiedBy": "System",
+    "CreatedAt": "2016-02-28T10:46:23.9147Z",
+    "ModifiedAt": "2016-02-28T10:46:23.9147Z",
+    "Locked": false,
+    "Hidden": false,
+    "Id": "02/28/2016 10:46:23"
+  },
+  {
+    "LastName": "Omari",
+    "OtherNames": "Eric Kwabena",
+    "Name": "Omari Eric Kwabena",
+    "PhoneNumber": "0243587324",
+    "Email": "eric@omari.com",
+    "Address": "",
+    "EmployeeNo": "A834934",
+    "JobTitle": "Killer",
+    "Gender": 0,
+    "CreatedBy": "System",
+    "ModifiedBy": "System",
+    "CreatedAt": "2016-02-28T10:46:08.5997365Z",
+    "ModifiedAt": "2016-02-28T10:46:08.5997365Z",
+    "Locked": false,
+    "Hidden": false,
+    "Id": "02/28/2016 10:46:08"
+  }
+]
